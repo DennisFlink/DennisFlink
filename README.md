@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @DennisFlink
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Dennis.flinkfeldt@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hej, jag heter Dennis Flinkfeldt
 
-<!---
-DennisFlink/DennisFlink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Junior frontendutvecklare från Yrkeshögskolan i Borås  
+💻 Intresserad av att bygga tillgängliga, responsiva och användarvänliga webblösningar  
+🚀 Har arbetat i projekt med React, Next.js, Tailwind CSS, TypeScript och CI/CD pipelines  
+🌱 Just nu fördjupar jag mig inom React-ekosystemet, tillgänglighet och testautomatisering  
+🛠 Har byggt bl.a. en progressiv webbapp för tidsregistrering samt en komponentbaserad webmall  
+📬 Du når mig på: **dennis.flinkfeldt@outlook.com**
+
+---
+
+### 🛠 Teknik jag jobbar med:
+- **Språk:** JavaScript, TypeScript, HTML, CSS  
+- **Ramverk & bibliotek:** React, Next.js, Remix, Tailwind CSS  
+- **Testning:** Playwright  
+- **CI/CD & Deploy:** GitLab CI/CD, Docker, Kubernetes, ArgoCD  
+- **Databas:** PostgreSQL  
+
+---
+
+💡 *Alltid öppen för att samarbeta, lära nytt och bidra till meningsfulla projekt!*  
