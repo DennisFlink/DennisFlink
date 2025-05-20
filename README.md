@@ -1,6 +1,6 @@
 #  Hej, jag heter Dennis Flinkfeldt
 
-🎓 Junior frontendutvecklare från Yrkeshögskolan i Borås  
+🎓 Junior frontendutvecklare  
 💻 Intresserad av att bygga tillgängliga, responsiva och användarvänliga webblösningar  
 🚀 Har arbetat i projekt med React, Next.js, Tailwind CSS, TypeScript och CI/CD pipelines  
 🌱 Just nu fördjupar jag mig inom React-ekosystemet, tillgänglighet och testautomatisering  
