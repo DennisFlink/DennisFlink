@@ -1,4 +1,4 @@
-# 👋 Hej, jag heter Dennis Flinkfeldt
+#  Hej, jag heter Dennis Flinkfeldt
 
 🎓 Junior frontendutvecklare från Yrkeshögskolan i Borås  
 💻 Intresserad av att bygga tillgängliga, responsiva och användarvänliga webblösningar  
