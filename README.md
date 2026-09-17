@@ -1,20 +1,30 @@
-#  Hej, jag heter Dennis Flinkfeldt
+# Hej, jag heter Dennis Flinkfeldt 👋
 
-🎓 Fullstack utvecklare.
-💻 Intresserad av att bygga tillgängliga, responsiva och användarvänliga webblösningar  .
-🚀 Har arbetat i projekt med React, Next.js, Tailwind CSS, TypeScript och CI/CD pipeline,Laravel 
-🌱 Just nu fördjupar jag mig inom React, tillgänglighet och testautomatisering  
-🛠 Har byggt bl.a. en progressiv webbapp för tidsregistrering samt en komponentbaserad webmall  
-📬 Du når mig på: **dennis.flinkfeldt@outlook.com**
+💻 Fullstackutvecklare med fokus på PHP/Laravel, React och TypeScript.
+
+🚀 Jag arbetar med både frontend- och backendutveckling och tycker särskilt om
+att bygga verksamhetsnära system där datamodellering, API:er och
+användargränssnitt hänger ihop.
+
+🛠 Har erfarenhet av att utveckla fullstackapplikationer, REST API:er,
+relationsbaserade datamodeller, behörighetslösningar och återanvändbara
+frontendkomponenter.
+
+⚙️ Har även arbetat med CI/CD, Docker, Kubernetes och ArgoCD för
+deployment och applikationsleverans.
+
+📬 **Kontakt:** dennis.flinkfeldt@outlook.com
 
 ---
 
-### 🛠 Teknik jag jobbar med:
-- **Språk:** JavaScript, TypeScript, HTML, CSS  
-- **Ramverk & bibliotek:** React, Next.js, Remix, Tailwind CSS  
-- **Testning:** Playwright  
-- **CI/CD & Deploy:** GitLab CI/CD, Docker, Kubernetes, ArgoCD  
-- **Databas:** PostgreSQL  
+### 🛠 Teknik jag arbetar med
+
+- **Språk:** PHP, JavaScript, TypeScript, SQL
+- **Backend:** Laravel, REST API
+- **Frontend:** React, Next.js, Inertia.js, HTML, CSS, Tailwind CSS
+- **Databas:** MySQL
+- **DevOps:** Docker, Kubernetes, ArgoCD, CI/CD
+- **Testning & verktyg:** Playwright, Git, GitHub
 
 ---
 
