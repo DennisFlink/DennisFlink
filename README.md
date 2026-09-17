@@ -1,7 +1,7 @@
 #  Hej, jag heter Dennis Flinkfeldt
 
-🎓 Fullstack utvecklare
-💻 Intresserad av att bygga tillgängliga, responsiva och användarvänliga webblösningar  
+🎓 Fullstack utvecklare.
+💻 Intresserad av att bygga tillgängliga, responsiva och användarvänliga webblösningar  .
 🚀 Har arbetat i projekt med React, Next.js, Tailwind CSS, TypeScript och CI/CD pipeline,Laravel 
 🌱 Just nu fördjupar jag mig inom React, tillgänglighet och testautomatisering  
 🛠 Har byggt bl.a. en progressiv webbapp för tidsregistrering samt en komponentbaserad webmall  
